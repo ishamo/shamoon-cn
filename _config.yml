@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
 paginate: 10 # pagination based on number of posts
@@ -30,3 +31,6 @@ categories_path: categories.html
 tags_path: tags.html
 
 BASE_PATH:
+=======
+baseurl: /shamoon-cn
+>>>>>>> c4ffbf01a849a660319f1863f3f6efe597d6d160
